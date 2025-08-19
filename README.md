@@ -1,2 +1,1 @@
-# Projects
 Harvard Artifacts Museums 
